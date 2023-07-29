@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Wrapper_Class_Demo - Command 1</Text>
+    <Description>Some description for RAA_Wrapper_Class_Demo</Description>
+    <Assembly>RAA_Wrapper_Class_Demo.dll</Assembly>
+    <FullClassName>RAA_Wrapper_Class_Demo.Command1</FullClassName>
+    <ClientId>bfb335a9-465a-44f8-82fd-9bc83bc8faed</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
